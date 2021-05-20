@@ -31,7 +31,7 @@ nav ul{
 }
 
 li{
-    /* float: left; */
+   
     list-style: none;
     /* margin: 0 16rem; */
     font-size: 2rem;
@@ -71,7 +71,6 @@ a{
 .frame-image{
     width: 30%;
     border-radius: 50%;
-    /* float: left; */
     margin-left: 24%;
    border: 2px solid #FFF;
     
@@ -119,14 +118,12 @@ font-family: 'Roboto Mono', monospace;
 
 .about-me .int{
     width: 40%;
-    /* float: left; */
     border-top: .5rem solid #bcbcbc;
     padding-top: 2rem;
 }
 
 
 .about-me .hobby{
-    /* float: right; */
     width: 40%;
     border-top: .5rem solid #bcbcbc;
     padding-top: 2rem;
@@ -223,9 +220,6 @@ font-family: 'Roboto Mono', monospace;
     }
 
     .projects img{
-        /* float: left; */
-        /* width: 20%; */
-        /* height: 50%; */
         width: 60%;
         margin: auto;
         border: 0.8rem solid #bcbcbc ;
@@ -288,7 +282,6 @@ font-family: 'Roboto Mono', monospace;
 form{
     width: 75%;
     background-color: #444349;
-    /* float: left; */
     padding: 4rem 0;
     border-radius: 3vh;
     box-shadow: .5rem .5rem .2rem .3rem #444349;
@@ -357,12 +350,9 @@ input[type=text]{
 
   .social-media{
       width: 20%;
-      /* float: left; */
   }
 
   .social-media .fab , .fas{
-        /* float: left; */
-        /* clear: both; */
         font-size: 7rem;
         margin-left: 50%;
         border-radius: 100%;
@@ -517,7 +507,7 @@ footer h1{
     overflow: hidden;
   }
 
- 
+
 
 }
 
@@ -615,3 +605,4 @@ footer h1{
     font-size: 3.5rem;
 }
 }
+
